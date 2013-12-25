@@ -47,5 +47,3 @@ technologies << 'test'
 Collections.shuffle(technologies, new Random())
 
 println technologies
-
-/* Maps--------------------------------------*/
